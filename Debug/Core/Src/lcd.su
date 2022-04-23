@@ -1,0 +1,12 @@
+../Core/Src/lcd.c:75:6:LCD_WR_REG	32	static
+../Core/Src/lcd.c:94:6:LCD_WR_DATA	32	static
+../Core/Src/lcd.c:114:6:LCD_WriteReg	16	static
+../Core/Src/lcd.c:127:6:LCD_WriteRAM_Prepare	8	static
+../Core/Src/lcd.c:139:6:Lcd_WriteData_16Bit	32	static
+../Core/Src/lcd.c:166:6:LCD_DrawPoint	16	static
+../Core/Src/lcd.c:179:6:LCD_Clear	24	static
+../Core/Src/lcd.c:211:6:LCD_RESET	8	static
+../Core/Src/lcd.c:226:6:LCD_Init	8	static
+../Core/Src/lcd.c:339:6:LCD_SetWindows	24	static
+../Core/Src/lcd.c:364:6:LCD_SetCursor	16	static
+../Core/Src/lcd.c:379:6:LCD_direction	16	static

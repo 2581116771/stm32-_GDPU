@@ -1,0 +1,6 @@
+../Core/Src/onenet.c:68:7:OneNet_DevLink	56	static
+../Core/Src/onenet.c:124:6:OneNet_Subscribe	48	static
+../Core/Src/onenet.c:155:6:OneNet_Publish	48	static
+../Core/Src/onenet.c:183:6:OneNet_RevPro	88	static
+../Core/Src/onenet.c:398:6:OneNet_SendData	168	static
+../Core/Src/onenet.c:435:15:OneNet_FillBuf	48	static

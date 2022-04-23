@@ -1,0 +1,6 @@
+../Core/Src/DS18B20.c:15:6:Set_Pin_Output	32	static
+../Core/Src/DS18B20.c:24:6:Set_Pin_Iuput	32	static
+../Core/Src/DS18B20.c:32:6:DS18B20	8	static
+../Core/Src/DS18B20.c:49:9:DS18B20_Start	16	static
+../Core/Src/DS18B20.c:67:6:DS18B20_Write	24	static
+../Core/Src/DS18B20.c:106:9:DS18B20_Read	16	static
